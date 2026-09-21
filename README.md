@@ -35,4 +35,4 @@ python detect_mask.py
 | **Overall**  | **0.98**  | **0.98** | **0.98** |
 
 ## 👨‍💻 Author
-Mahabubul Hasan — [@konyhasan-cyber](https://github.com/konyhasan-cyber)
+Md. Mahabubul Hasan — [@mahabub-automation](https://github.com/mahabub-automation) · [LinkedIn](https://linkedin.com/in/mahabubulhasan)
