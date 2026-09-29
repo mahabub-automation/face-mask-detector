@@ -1,4 +1,4 @@
-opencv-python-headless
 streamlit
+tensorflow-cpu>=2.15
+opencv-python-headless
 numpy
-tflite-runtime
